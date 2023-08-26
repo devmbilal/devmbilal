@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Muhmmad Bilal</h1>
-<h3 align="center">A passionate CS Student from Quaid-e-Azam University Islamabad</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-<p align="left"> <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" /> </p>
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
-- 🔭 I’m currently working on [Express](https://github.com/devmbilal/Node.js-Learning-Repo/tree/main/Express/restful-apis/)
+<h1 align="center">Hi 👋, I'm Muhmmad Bilal</h1>  
+<h3 align="center">A passionate CS Student from Quaid-e-Azam University Islamabad</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmbilal&label=Profile%20views&color=0e75b6&style=flat" alt="devmbilal" /> </p>
+<image align="right" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" />
+
+- 🔭 I’m currently working on [Express](https://github.com/devmbilal/Node.js-Learning-Repo/tree/main/Express/restful-apis/)  
 
 - 🌱 I’m currently learning [Node js](https://github.com/devmbilal/Node.js-Learning-Repo/)
 
 - 📫 How to reach me **dev.mdbilal@gmail.com**
+- 💬 Ask me about **Backend and Apis**
+
+- ⚡ Fun fact **I am funny**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
