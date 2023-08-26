@@ -4,12 +4,14 @@
 <h3 align="center">A passionate CS Student from Quaid-e-Azam University Islamabad</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmbilal&label=Profile%20views&color=0e75b6&style=flat" alt="devmbilal" /> </p>
 <image align="right" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" />
+<p align="left"> <a href="https://twitter.com/dev-mbilal" target="blank"><img src="https://img.shields.io/twitter/follow/dev-mbilal?logo=twitter&style=for-the-badge" alt="dev-mbilal" /></a> </p>
 
 - 🔭 I’m currently working on [Express](https://github.com/devmbilal/Node.js-Learning-Repo/tree/main/Express/restful-apis/)  
 
 - 🌱 I’m currently learning [Node js](https://github.com/devmbilal/Node.js-Learning-Repo/)
-
+  
 - 📫 How to reach me **dev.mdbilal@gmail.com**
+  
 - 💬 Ask me about **Backend and Apis**
 
 - ⚡ Fun fact **I am funny**
