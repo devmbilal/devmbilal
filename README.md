@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Muhmmad Bilal</h1>
 <h3 align="center">A passionate CS Student from Quaid-e-Azam University Islamabad</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <p align="left"> <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" /> </p>
 
+- 🔭 I’m currently working on [Express](https://github.com/devmbilal/Node.js-Learning-Repo/tree/main/Express/restful-apis/)
+
+- 🌱 I’m currently learning [Node js](https://github.com/devmbilal/Node.js-Learning-Repo/)
+
+- 📫 How to reach me **dev.mdbilal@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dev-mbilal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-mbilal" height="30" width="40" /></a>
