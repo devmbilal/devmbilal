@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad</h1>
+<h1 align="center">Hi 👋, I'm Muhmmad Bilal</h1>
 <h3 align="center">A passionate CS Student from Quaid-e-Azam University Islamabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmbilal&label=Profile%20views&color=0e75b6&style=flat" alt="devmbilal" /> </p>
