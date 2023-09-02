@@ -51,7 +51,7 @@
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart">
     </td>
     <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"  width="60" height="60">
+        <img src="" alt="express"  width="60" height="60">
     </td>
      <td align='center' width="190">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
